@@ -1,4 +1,6 @@
 # MonoPon - 片付け特化アプリ
+> 紹介記事: https://protopedia.net/prototype/7540
+
 
 > **バックエンドはこちら**: https://github.com/team-nup/2025-edd-gcloud-backend-resource
 
